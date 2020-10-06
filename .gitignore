@@ -136,3 +136,7 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# don't extend tmp.pyc and .gitignore
+!.gitignore
+!tmp.pyc
